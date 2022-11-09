@@ -1,0 +1,1 @@
+C:\Users\charl\source\repos\MauiRCTest1\MauiRCTest1\MauiRCTest1.csproj;x64
